@@ -20,15 +20,15 @@ export default function Testimonial() {
               <img src={avatar} alt="avatar" />
             </div>
             <div className="info">
-              <h3>Kishan Sheth</h3>
-              <span>Full Stack Developer</span>
+              <h3>Awe Oluwatimileyin</h3>
+              <span>Website Developer</span>
             </div>
           </div>
           <p className="desrciption">
-            Jetrips Hotel is an excellent choice for anybody for considering
-            hosting their events there. Top level facilities and excellent staff
+            Top level facilities and excellent staff
             make for a briallant environment within which to operate. The hotel
-            is meticulous in its planning.
+            is meticulous in its planning. Jetrips Hotel is an excellent choice for anybody for considering
+            hosting their events there. 
           </p>
         </div>
         <div className="testimonial-image-two">

@@ -32,13 +32,13 @@ export default function Footer() {
           </div>
           <ul>
             <li>
-              <span> +0213 456 987 </span>
+              <span> +234 906 434 9985 </span>
             </li>
             <li>
-              <span>kishansheth21@gmail.com</span>
+              <span>awoluwatimileyin@gmail.com</span>
             </li>
             <li>
-              <span>www.youtube.com</span>
+              <a href="https://github.com/CodeATM">GitHub</a>
             </li>
           </ul>
         </div>
@@ -68,7 +68,7 @@ export default function Footer() {
       </div>
       <div className="lower-footer">
         <span>
-          Copyright &copy; Travel. Designed by <a href="#">Kishan Sheth</a>
+          Copyright &copy; Travel. Designed by <a href="#">Oluwatimileyin Matthew AWE</a>
         </span>
       </div>
     </Container>
